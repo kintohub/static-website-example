@@ -1,4 +1,4 @@
-# KintoHub static-website-example
+# KintoHub Static HTML Website Example
 
 ## Overview
 A simplest possible static html example with all styles and markup embedded in a single file.
