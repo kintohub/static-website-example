@@ -12,9 +12,10 @@ KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More
 ## Deployment
 1. Apply this template to your [Github](https://github.com/kintohub/static-website-example/generate)
 2. Connect your GithubApp to KintoHub.
-3. Create a [Static Website](https://docs.kintohub.com/docs/kintoblocks/websites) on KintoHub and select the Repository you just generated on your account.
-4. Set source **Source Folder Path** to `/public`
-5. Set the **name** of your kinto block
+3. Create a [Website Block](https://docs.kintohub.com/docs/kintoblocks/websites) on KintoHub and select the Repository you just generated on your account.
+4. Select **Static**
+5. Set source **Source Folder Path** to `/public`
+6. Set the **name** of your kinto block
 
 You're now good to go! Click **Create Website** and then on your Master branch click `Build Latest Commit`.
 
